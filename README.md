@@ -17,7 +17,7 @@
 - It is complete responsive
 
 ## Screenshot
-<img src = "">
+<img src = "https://github.com/Pooja-saini467/timer/blob/main/design/desktop-design.jpg?raw=true">
 
 ## Demo
 
