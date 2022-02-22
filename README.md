@@ -21,8 +21,12 @@
 
 ## Demo
 
+https://user-images.githubusercontent.com/90523453/155208242-1fb90d4d-f375-47e6-97b4-32fda067d556.mp4
+
+
+
 ## Live Link
-- Pooja-saini467(https://pooja-saini467.github.io/ecommerce-page/)
+- Pooja-saini467()
 
 
 ## My Process
@@ -33,7 +37,7 @@
 
 ## Author
 - Website Url
-- pooja saini (https://www.linkedin.com/posts/pooja-saini-a8239a1a4_30daysofcodechallenge-frontendmentor-html5-activity-6899624595788222464-5xI2)
+- pooja saini (https://www.linkedin.com/posts/pooja-saini-a8239a1a4_30daysofcodechallenge-frontendmentor-html5-activity-6901619580851032064-Qa5j)
 - Twitter url
 - @Pooja96490259(https://twitter.com/home)
 
