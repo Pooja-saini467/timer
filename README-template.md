@@ -53,7 +53,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Pooja saini](https://www.your-site.com)
+- Website - [pooja saini](https://www.linkedin.com/in/pooja-saini-a8239a1a4/recent-activity/shares/)
 - Frontend Mentor - [pooja-saini467](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yPooja96490259](https://www.twitter.com/yourusername)
 
